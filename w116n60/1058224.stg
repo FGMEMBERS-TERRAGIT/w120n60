@@ -1,1 +1,3 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml -115.803333 60.836111 158.88 180
+OBJECT_SHARED Models/Aircraft/dc3_lowpoly.ac -115.7749589 60.8420873 159.16 336
+OBJECT_SHARED Models/Aircraft/dc3_green_lowpoly.ac -115.7677084 60.8435643 158.96 24
